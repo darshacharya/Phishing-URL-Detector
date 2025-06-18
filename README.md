@@ -5,6 +5,9 @@ An intelligent, machine-learning-powered web application to detect whether a giv
 ![Phishing Detector](https://img.shields.io/badge/Phishing%20Detection-Streamlit%20App-blue) ![Machine Learning](https://img.shields.io/badge/ML-RandomForest-success)
 
 ---
+## 📸 Screenshot
+
+![UI](assets/phishing_dectector_ui.png)
 
 ## 🌐 Features
 
